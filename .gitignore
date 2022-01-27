@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/__pycache__
+/.idea/workspace.xml
+*.*ml
+*.json
